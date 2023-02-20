@@ -1,0 +1,30 @@
+.kutu-20 {
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+
+}
+
+.float-l {
+    float: left;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}
+
+.title-color {
+    color: rgb(248, 67, 67);
+}
+
+.fontFamily {
+    font-family: "Open Sans", sans-serif;
+}
+
+.listStyle {
+    list-style-position: inside;
+}
